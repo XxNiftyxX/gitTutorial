@@ -58,6 +58,7 @@ if you followed the readme steps for setup the contents will be displayed on git
 
 you can add the readme by touch README.md
 git add .
+git commit -m 'added readme'
 git push
 
 
