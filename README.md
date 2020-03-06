@@ -61,3 +61,5 @@ you can add the readme by touch README.md
 git add .
 git commit -m 'added readme'
 git push
+
+Other useful commands: git pull, git clone <link from github directory>
